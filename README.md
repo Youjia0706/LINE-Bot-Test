@@ -1,6 +1,6 @@
 # LINE Bot Test
 
-使用 **LINE Messaging API** 與 **中央氣象署開放資料平台 API** 製作的天氣降雨提醒 LINE Bot。
+使用 **LINE Messaging API** 與 **中央氣象署開放資料平臺 API** 製作的天氣降雨提醒 LINE Bot。
 
 ## 功能
 
@@ -10,8 +10,8 @@
 ## 環境需求
 
 - Python 3.8+
-- 已註冊 LINE Messaging API 並取得 **Channel Access Token** 與 **Channel Secret**
-- 已申請中央氣象署 API 金鑰
+- 註冊 LINE Messaging API 取得 **Channel Access Token** 與 **Channel Secret**
+- 申請中央氣象署 API Key
 
 ## 安裝
 
