@@ -1,0 +1,10 @@
+# Python 編譯檔
+__pycache__/
+*.pyc
+
+# 環境設定檔（API 金鑰、私密資訊）
+setting.json
+
+# 虛擬環境
+venv/
+.env/
